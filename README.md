@@ -1,5 +1,5 @@
 # PillPal
-![logo](assets/img/pillpal-icon.png)
+
 
 PillPal is a medicine reminder and tracker app whch helps you stay on schedule, track your recovery and never miss a medication slot.
 
