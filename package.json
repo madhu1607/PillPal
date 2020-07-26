@@ -1,0 +1,23 @@
+{
+  "name": "pillpal_landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madhu1607/PillPal_LP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madhu1607/PillPal_LP/issues"
+  },
+  "homepage": "https://github.com/madhu1607/PillPal_LP#readme"
+}
