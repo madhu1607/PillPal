@@ -1,8 +1,7 @@
 /**
-* Template Name: Appland - v2.2.0
-* Template URL: https://bootstrapmade.com/free-bootstrap-app-landing-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: Pillpal_Land- v2.2.0
+* Author: Madhuri Rudrabhatla
+
 */
 !(function($) {
   "use strict";

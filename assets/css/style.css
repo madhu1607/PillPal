@@ -1,10 +1,8 @@
 /**
-* Template Name: Appland - v2.2.0
-* Template URL: https://bootstrapmade.com/free-bootstrap-app-landing-page-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+* Template Name: Pillpal_Land- v2.2.0
+* Author: Madhuri Rudrabhatla
 
+*/
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -80,14 +78,6 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
-#header .logo h1 {
-  font-size: 30px;
-  margin: 0;
-  padding: 6px 0;
-  line-height: 1;
-  font-weight: 400;
-  letter-spacing: 2px;
-}
 
 #header .logo h1 a, #header .logo h1 a:hover {
   color: #5777ba;
@@ -95,9 +85,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  padding: 6px 0;
+ 
   margin: 0;
-  max-height: 40px;
+  max-height: 70px;
 }
 
 /*--------------------------------------------------------------
